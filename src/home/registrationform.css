@@ -1,0 +1,9 @@
+.titles{
+    text-align: left;
+    text-decoration: underline;
+    margin-bottom: 20px;
+}
+.button-block{
+    display: flex; 
+    justify-content: flex-end;
+}
